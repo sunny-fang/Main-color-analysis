@@ -1,2 +1,2 @@
 # Main-color-analysis
-Use KNN method for main color analysis
+Use K-means method for main color analysis
