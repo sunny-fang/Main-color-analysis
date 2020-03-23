@@ -1,6 +1,6 @@
 #%%
 import os
-os.chdir('D:\\研究所(2019.9.23)\\碩一上\\DIGI\\專案\\pic')
+os.chdir('D:...')
 # 讀圖片的RGB
 import cv2 
 # 讀取圖像，直接是numpy矩陣格式 
