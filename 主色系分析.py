@@ -4,7 +4,7 @@
 import colorsys
 import PIL.Image as Image
 import os
-os.chdir('D:\\研究所(2019.9.23)\\碩一上\\DIGI\\專案\\pic')
+os.chdir('D:\\...')
  
 def get_dominant_color(image):
     max_score = 0.0001
