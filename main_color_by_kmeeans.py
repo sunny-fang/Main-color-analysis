@@ -4,7 +4,7 @@ from sklearn.cluster import KMeans
 import numpy as np
 import os, time
 import cv2
-os.chdir('D:\\研究所(2019.9.23)\\碩一上\\DIGI\\專案\\pic')
+os.chdir('D:\\...')
 pic = '2.png'
 
 #%%
